@@ -1,24 +1,21 @@
-## Hi, I'm Saniru Vinoshan 👋
-<h2 align="center">Electrical Engineering Undegraduate at University of Moratuwa</h2>
+## Hi, I'm Saniru Abeyrathna 👋
+<h2 align="center">Mechanical Engineering Undegraduate at University of Moratuwa</h2>
 
-<h5 align="center"> <img src="https://komarev.com/ghpvc/?username=Nimeshrajakaruna&label=Profile%20views&color=0e75b6&style=flat" alt="Nimeshrajakaruna" /> </h5>
+<h5 align="center"> <img src="https://komarev.com/ghpvc/?username=SaniruAbeyrathna&label=Profile%20views&color=0e75b6&style=flat" alt="SaniruAbeyrathna" /> </h5>
 
 <br>
 
-<p align="justify">I am a dedicated Electrical Engineering undergraduate at the University of Moratuwa, with a keen interest
-in power systems engineering and electrical installation. My passion lies in exploring innovative solutions
-in energy distribution, smart grid technologies, and automation systems. I am eager to apply my technical
-knowledge and problem-solving skills to contribute effectively in these areas while continuing to learn
-and grow professionally
+<p align="justify">I am a dedicated Mechanical Engineering undergraduate at the University of Moratuwa, with a keen interest
+in Mechanical design, Automation and Robotics. I am eager to apply my technical knowledge and problem-solving skills to contribute effectively in these areas while continuing to learn and grow professionaly.
 </p>
 
 <br>
 
 👋 Hi, I'm UG at the University of Moratuwa.  
-🏠 I live in Anamaduwa, Puttalam.  
-💻 I'm passionate about backend development.  
-⚡ I'm passionate about power systems, control systems, and electrical installations.  
-📫 You can reach me at **rhmndilhara123@gmail.com**.
+🏠 I live in Nuwraeliya.  
+💻 I'm passionate about CAD, Automaiton and Robotics.  
+⚡ I'm passionate about Mechanical Systems, Electrical Systems and Control Systems.  
+📫 You can reach me at **abeyrathnasv.21@uom.lk**.
 
 
 <br>
@@ -26,12 +23,12 @@ and grow professionally
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nimesh-rajakaruna-42b60b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh-rajakaruna-42b60b252" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saniru-abeyrathna-81b69b329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniru-abeyrathna-81b69b329" height="30" width="40" /></a>
 <a href="https://fb.com/nimesh.rajakaruna.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimesh.rajakaruna.21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 
 
 <p align="left">
@@ -53,12 +50,7 @@ and grow professionally
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/>
-  </a>
+  
 </p>
 <br />
 <b></b>
